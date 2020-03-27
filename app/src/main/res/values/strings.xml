@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Notification</string>
+    <string name="Text_name">Name</string>
+    <string name="Button_signup">Sign UP</string>
+
+    <string name="Text_email">E-mail</string>
+    <string name="Text_telephone">Telephone</string>
+    <string name="Password">Password</string>
+    <string name="password">Re-enter password</string>
+    <string name="Button_register">Register</string>
+    <string name="Button_cancle">Cancle</string>
+    <string name="channel_name">Notification</string>
+    <string name="channel_description">this is notification channel</string>
+
+</resources>
